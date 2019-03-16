@@ -8,4 +8,5 @@ Here is to try for the commit
 
 
 It is for feature 2, and remove the line for feature
-additional for feature 2
+
+it is additional for feature 2
