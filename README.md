@@ -5,4 +5,6 @@ Initial for try for git
 Here is to try for the commit
 
 
-Here is feature branch
+
+
+It is for feature 2, and remove the line for feature
